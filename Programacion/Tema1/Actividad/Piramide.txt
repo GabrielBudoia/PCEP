@@ -1,0 +1,8 @@
+Juego de mesa, dado, 6
+ 
+El dado pone el número 6 
+
+Era mi vez de tirar el dado 
+
+Debo mover mi personaje 6 casillas adelante
+
